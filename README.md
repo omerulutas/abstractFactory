@@ -11,6 +11,7 @@ You to come up with a design that isolates a student object creation from my stu
  
  ### UML Diagram
  ![st](https://user-images.githubusercontent.com/19168041/35522122-9589f46c-052c-11e8-9be1-47aaa4a9a301.png)
+ 
 
 (Installation instructions are for the microsoft operating system.)
 
