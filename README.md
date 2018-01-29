@@ -2,7 +2,7 @@
 
 This study is containing Design Pattern Lecture's Abstract Factory Pattern topic with illustration and implementation . Project is implemented in Java. I implement in my university life.
 
-# Description of CizCizDP
+# Description of abstractStudentFactory
 
  The system has PhD students who need to write a dissertation, MS students who has to complete a thesis, undergraduate students who need a graduation project to earn their degree.
 
@@ -10,12 +10,7 @@ This study is containing Design Pattern Lecture's Abstract Factory Pattern topic
 You to come up with a design that isolates a student object creation from my student manipulation objects.  
  
  ### UML Diagram
- ![f](https://user-images.githubusercontent.com/19168041/35488769-b73c0692-049e-11e8-98ab-06d60a68bc3e.png)
-
-
-### UML Diagram
- ![f](https://user-images.githubusercontent.com/19168041/35488769-b73c0692-049e-11e8-98ab-06d60a68bc3e.png)
-# Installation - The software you need
+ ![st](https://user-images.githubusercontent.com/19168041/35522122-9589f46c-052c-11e8-9be1-47aaa4a9a301.png)
 
 (Installation instructions are for the microsoft operating system.)
 
